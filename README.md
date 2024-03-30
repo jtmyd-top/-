@@ -27,7 +27,7 @@
 2. 运行代码：
 
     ```bash
-    python ssl_certificate_checker.py
+    python TCloud.py
     ```
 
 ## 注意事项
