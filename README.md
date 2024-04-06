@@ -23,6 +23,7 @@
     - `sender_email`：用于发送邮件通知的邮箱地址。
     - `receiver_email`：接收邮件通知的邮箱地址。
     - `sender_email_password`：发送邮件通知邮箱的密码。
+    - `search_key`:可选变量，可以查询具体某一个域名信息
 
 2. 运行代码：
 
